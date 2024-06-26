@@ -1,8 +1,10 @@
 
 local servers = {
+  "ruff",
   "lua_ls",
 	"pyright",
 	"jsonls",
+  "yamlls",
 }
 
 local settings = {
